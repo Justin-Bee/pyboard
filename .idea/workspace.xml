@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30108cf2-75da-4b8a-8868-3e754fead3da" name="Default Changelist" comment="" />
+    <list default="true" id="30108cf2-75da-4b8a-8868-3e754fead3da" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +22,7 @@
   </component>
   <component name="MicroPythonDevices" devicePath="/dev/ttyACM0" />
   <component name="ProjectId" id="1RC9pCvPwikuF35LOohDlqKED6T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="/dev/tty0" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.micropython.configurable" />
@@ -48,5 +51,16 @@
       <updated>1569160391820</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
