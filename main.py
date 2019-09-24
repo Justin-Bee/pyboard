@@ -14,6 +14,7 @@ sw = Switch()
 #when user switch is pressed the LED toggles on or off
 sw.callback(lambda: pyb.LED(3).toggle())
 
+#loop to blink led in pin x1
 while x==0:
      p_out.high()
      pyb.delay(500)
